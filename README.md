@@ -1,7 +1,7 @@
 # printf("Hello, World\n");
 ### Meu nome é Thales Mesquita Lopes
 
-<p>Estudante de ciência da computação (Bacharel) pela Universidade Estadual do Ceará - UECE 🎓
+<p>Bacharelando em ciência da computação pela Universidade Estadual do Ceará - UECE 🎓
 <p>Aprendendo a programar 👨‍💻
 <p>Descobrindo HTML, CSS e JS 🔭
 <p>Interessado em InfoSec 🔒
