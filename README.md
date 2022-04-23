@@ -30,7 +30,6 @@ Brazilian computer science student at Ceara State University (UECE)
 ## GitHub Analytics
 <div>
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Sartadd&theme=default&show_icons=true&count_private=true">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sartadd&theme=default&layout=compact&langs_count=5">
 </div>
 
 ![happy-dog-smiling](https://user-images.githubusercontent.com/85114637/134243162-745fddf6-6de0-4f19-b37d-6712c07c03f1.gif) 
