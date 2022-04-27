@@ -1,6 +1,6 @@
 # Thales Lopes
 <a href="https://www.github.com/Sartadd" target="_blank"><img src="https://img.shields.io/badge/Sartadd-100000?style=flat&logo=github&logoColor=white" alt="GitHub Badge" height="25"></a>&nbsp;
-<a href="mailto:thales.lopes@aluno.uece.br@gmail.com" target="_blank"><img src="https://img.shields.io/badge/thales.lopes@aluno.uece.br-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail Badge" height="25"></a>&nbsp;
+<a href="mailto:thales.lopes@aluno.uece.br" target="_blank"><img src="https://img.shields.io/badge/thales.lopes@aluno.uece.br-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail Badge" height="25"></a>&nbsp;
 <a href="https://www.instagram.com/thales_mlopes" target="_blank"><img src="https://img.shields.io/badge/thales_mlopes-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge" height="25"></a>&nbsp;
 
 ## print("Hello World")
